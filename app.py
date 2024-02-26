@@ -39,7 +39,7 @@ st.set_page_config(page_title="Generate Blogs",
 
 st.header("Generate Blogs 🤖")
 
-input_text=st.text_input("Enter the Blog Topic")
+input_text=st.text_input("Enter a prompt here")
 
 ## creating to more columns for additonal 2 fields
 
