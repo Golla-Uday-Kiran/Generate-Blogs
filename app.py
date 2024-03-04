@@ -41,7 +41,7 @@ st.header("Generate Blogs 🤖")
 
 input_text=st.text_input("Enter a prompt here")
 
-## creating to more columns for additional 2 fields
+## creating two more columns for additional 2 fields
 
 col1,col2=st.columns([5,5])
 
